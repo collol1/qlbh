@@ -1,0 +1,13 @@
+D:\visual code\qlbh\qlbh\bin\Debug\qlbh.exe.config
+D:\visual code\qlbh\qlbh\bin\Debug\qlbh.exe
+D:\visual code\qlbh\qlbh\bin\Debug\qlbh.pdb
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.csproj.AssemblyReference.cache
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.Form1.resources
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.Properties.Resources.resources
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.csproj.GenerateResource.cache
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.csproj.CoreCompileInputs.cache
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.exe
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.pdb
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.frmDMSanPham.resources
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.MDIParent1.resources
+D:\visual code\qlbh\qlbh\obj\Debug\qlbh.sanpham.resources
